@@ -1,0 +1,1 @@
+mbison = {'nome': 'mestre_bison', 'raça': 'cyborg','classe': 'barbaro', 'nivel': 1, 'arma': 'punho', 'ouro': 0, 'atributo': {'vida': 5, 'defesa': 3, 'sorte': 4, 'magia': 1, 'ataque': 5}}

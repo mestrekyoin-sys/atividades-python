@@ -1,0 +1,6 @@
+n = range(5,55,5)
+b = range(6,256,6)
+print('\n-------------multiplos de 5-------------\n')
+print(list(n))
+print('\n-------------multiplos de 6-------------\n')
+print(list(b))
